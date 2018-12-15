@@ -1,7 +1,7 @@
 # game
 Welcome to "game" I don't have a title for it yet, it just runs on openspades (an open source engine for voxlap)<br />
-I recommend when you go into the game, click "Setup" and change your ingame name.<br />																								
-THIS GAME IS ENTIRELY FREE AND I MAKE GAMES AS A HOBBY AND NOT A PROFESSION.<br />   																																																																																											
+I recommend when you go into the game, click "Setup" and change your ingame name.<br /><br />																								
+THIS GAME IS ENTIRELY FREE AND I MAKE GAMES AS A HOBBY AND NOT A PROFESSION.<br /><br />   																																																																																											
 ***NEW CHRISTMAS UPDATE***<br />
 added:<br /><br />
 new standard rife (christmas themed)<br />
