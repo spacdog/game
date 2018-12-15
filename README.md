@@ -11,4 +11,6 @@ changed the exe icon to skipper with a santa hat on<br />
 changed the in-game logo to be christmas themed<br />
 changed the start menu background map to be snowy<br />
 changed the click sound in the server select menu<br />
+chagned the shotgun to be more christmas themed<br />
+changed the block to a present<br />
 **NEXT UPDATE IN 2 WEEKS, STAY TUNED FOR MORE CHANGES**
