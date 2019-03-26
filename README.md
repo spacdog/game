@@ -7,6 +7,7 @@ new standard rifle<br />
 new tactical smg<br />
 changed candy axe back to scythe<br />
 changed the start menu background map to be hallway<br />
+changed the boogie bomb to be much less annoying and loud<br />
 removed the santa hat<br />
 removed accidental wall hacks (my bad) <br />
 removed MSAA and NVIDIA TXAA due to visual issues<br />
