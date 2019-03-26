@@ -9,3 +9,5 @@ changed candy axe back to scythe<br />
 changed the start menu background map to be hallway<br />
 removed the santa hat<br />
 removed accidental wall hacks (my bad) <br />
+removed MSAA and NVIDIA TXAA due to visual issues<br />
+removed motion blur (may come back at a later date but for now its removed)
