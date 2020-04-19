@@ -2,7 +2,7 @@
 Welcome to Trenches RX, this game runs on openspades (an open source engine for ace of spades)<br /><br />																																																																																																										
 ***NEW UPDATE, BEEN A YEAR BUT NEW UPDATE*** (1.4) <br />
 added:<br /><br />
-new pickaxe<br />
+new pickaxe<br /><br />
 
 changed:<br /><br />
 shotgun model (last change i promise!)<br />
